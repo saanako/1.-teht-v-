@@ -1,0 +1,1 @@
+tässä osioiden 3 ja 4 tehtävät
