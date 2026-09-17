@@ -7,9 +7,6 @@ if pituus <= 37 :
 else:
     print('kuha on oikean mittainen!')
 
-#tehtävä 2
-
-
 
 
 
