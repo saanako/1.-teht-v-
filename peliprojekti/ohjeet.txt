@@ -1,0 +1,3 @@
+PELIN CAT COLLECTION OHJEET
+-Aloita peli ja liiku alueelta toiselle
+-Alueilta löytyy kissoja: Sinun tulee kerätä ne kaikki!
